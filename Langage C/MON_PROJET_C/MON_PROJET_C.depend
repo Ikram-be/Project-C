@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1740657103 source:c:\users\hyper\documents\langage c\mon_projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
